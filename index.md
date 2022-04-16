@@ -5,7 +5,7 @@
 - [algo files](https://github.com/ftp7/um-2022/tree/main/um-algo)
 
 ### meeting link:
-- [google meet] (https://meet.google.com/jbq-gcgh-ubd)
+- [google meet](https://meet.google.com/jbq-gcgh-ubd)
 
 ### To-do:
--prepare for presentation (thu, 21/4)
+- prepare for presentation (thu, 21/4)
