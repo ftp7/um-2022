@@ -8,4 +8,4 @@
 - [google meet](https://meet.google.com/jbq-gcgh-ubd)
 
 ## to-do:
-- prepare for presentation (thu, 21/4)
+- prepare for presentation (thu, 21/4, 11.30-12 myt)
