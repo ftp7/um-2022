@@ -11,6 +11,6 @@
 - prepare for presentation (thu, 21/4, 11.30-12 myt)
 
 ## code together:
-- [replit](https://replit.com/join/tegsosvstj-ftp7)
+- [codecademy workspace](https://www.codecademy.com/workspaces/625c06df0bc923bbc6e97c1b)
 
 
