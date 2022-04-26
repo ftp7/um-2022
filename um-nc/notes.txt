@@ -1,0 +1,33 @@
+which one smoother between SGD or BGD
+BGD have smoother curve, because in bgd we use all the iteration of whole dataset
+in sgd because we take sample at a time.
+Since we are considering just one example at a time the cost will fluctuate over the training examples and it will not necessarily decrease. But in the long run, you will see the cost decreasing with fluctuations.
+
+which converged faster ?
+faster sgd because only used subset of wholedata instead all of the data
+more accurate gd but more expensive because run through all the whole dataset
+
+
+what happen to the weight as algorithm converges
+the weight is updated (if there is bias the bias updated too) when it is converges
+mean the error is very low then the weight and/or bias is optimized
+
+what is the difference between SGD to BGD
+SGD use subset sample at a time then do gradient descent , the error will be fluctuate not smoother and it wont necesarily decrease the cost/lost, but in the long run it will be decreasing  with the fluctuations
+
+BGD batch
+
+In Batch Gradient Descent, all the training data is taken into consideration to take a single step. We take the average of the gradients of all the training examples and then use that mean gradient to update our parameters.
+
+So that’s just one step of gradient descent in one epoch.
+
+Batch Gradient Descent is great for convex or relatively smooth error manifolds. In this case, we move somewhat directly towards an optimum solution.
+
+Mini batch
+we use all the dataset all at once nor we use the single example at a time. We use a batch of a fixed number of training examples which is less than the actual dataset and call it a mini-batch. Doing this helps us achieve the advantages of both the former variants we saw. So, after creating the mini-batches of fixed size, we do the following steps in one epoch:
+
+Pick a mini-batch
+Feed it to Neural Network
+Calculate the mean gradient of the mini-batch
+Use the mean gradient we calculated in step 3 to update the weights
+Repeat steps 1–4 for the mini-batches we created
