@@ -15,7 +15,7 @@
 
 ## code together:
 - [codecademy workspace](https://www.codecademy.com/workspaces/625c06df0bc923bbc6e97c1b)
-- [colab](https://drive.google.com/file/d/1-MAuE4Sfi6S87W7C67gg7xFX9d0ctS0C/view?usp=sharing)
+- [colab](https://drive.google.com/file/d/1Mp1SMaiZW-eLYV8FvH4BO5tkufNXqUIq/view?usp=sharing)
 
 ## lab work:
 - [lab2](/lab2.html)
