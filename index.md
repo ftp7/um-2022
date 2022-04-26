@@ -3,7 +3,7 @@
 
 ## study materials:
 - [algo files](https://github.com/ftp7/um-2022/tree/main/um-algo)
-- [google drive] (https://drive.google.com/drive/folders/1Wb_lUsZHBdGO2h6L72gBYCWNOrgakbk_?usp=sharing)
+- [google drive](https://drive.google.com/drive/folders/1Wb_lUsZHBdGO2h6L72gBYCWNOrgakbk_?usp=sharing)
 
 ## meeting link:
 - [google meet](https://meet.google.com/jbq-gcgh-ubd)
