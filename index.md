@@ -3,12 +3,15 @@
 
 ## study materials:
 - [algo files](https://github.com/ftp7/um-2022/tree/main/um-algo)
+- [google drive] (https://drive.google.com/drive/folders/1Wb_lUsZHBdGO2h6L72gBYCWNOrgakbk_?usp=sharing)
 
 ## meeting link:
 - [google meet](https://meet.google.com/jbq-gcgh-ubd)
 
 ## to-do:
-- prepare for presentation (thu, 21/4, 11.30-12 myt)
+- Group Contract
+- 1st FILA form (compulsory to all members to develop the program)
+- Week 7: (Compulsory) Please answer the Pre-Test. Links are provided on Spectrum. There are 3 questionnaires to answer in total.
 
 ## code together:
 - [codecademy workspace](https://www.codecademy.com/workspaces/625c06df0bc923bbc6e97c1b)
