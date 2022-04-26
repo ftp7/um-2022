@@ -1,7 +1,7 @@
 # WIA2005 ALGORITHM DESIGN AND ANALYSIS - T4G1
 
 
-## study materials:
+## resources:
 - [algo files](https://github.com/ftp7/um-2022/tree/main/um-algo)
 - [google drive](https://drive.google.com/drive/folders/1Wb_lUsZHBdGO2h6L72gBYCWNOrgakbk_?usp=sharing)
 
