@@ -9,10 +9,7 @@
 - [google meet](https://meet.google.com/jbq-gcgh-ubd)
 
 ## to-do:
-- Group Contract
-- 1st FILA form (compulsory to all members to develop the program)
-- Week 7: (Compulsory) Please answer the Pre-Test. Links are provided on Spectrum. There are 3 questionnaires to answer in total.
-- start doing the research
+<img src="/Screen Shot 2022-04-28 at 23.54.45.png">
 
 ## code together:
 - [codecademy workspace](https://www.codecademy.com/workspaces/625c06df0bc923bbc6e97c1b)
