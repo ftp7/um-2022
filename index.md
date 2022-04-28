@@ -9,7 +9,7 @@
 - [google meet](https://meet.google.com/jbq-gcgh-ubd)
 
 ## to-do:
-![todo](/um-2022/todo.png)
+![todo](/todo.png)
 
 ## code together:
 - [codecademy workspace](https://www.codecademy.com/workspaces/625c06df0bc923bbc6e97c1b)
