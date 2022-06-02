@@ -17,3 +17,4 @@
 
 ## lab work:
 - [lab2](/lab2.html)
+- [store map for project problem2](/store_mapping.html)
