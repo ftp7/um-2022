@@ -6,12 +6,12 @@
 - [neutral](/problem_1/NEUTRAL.html)
 - [positive](/problem_1/POSITIVE.html)
 #### problem2:
-- final distribution map (/problem_2/final_mapping.html)
-- map of stores SG (/problem_2/map_of_stores_SG.html)
-- map of stores AE (/problem_2/map_of_stores_AE.html)
-- map of stores US (/problem_2/map_of_stores_US.html)
-- map of stores MY (/problem_2/map_of_stores_MY.html)
-- map of stores MY (/problem_2/map_of_stores_ID.html)
+- [final distribution map] (/problem_2/final_mapping.html)
+- [map of stores SG] (/problem_2/map_of_stores_SG.html)
+- [map of stores AE] (/problem_2/map_of_stores_AE.html)
+- [map of stores US] (/problem_2/map_of_stores_US.html)
+- [map of stores MY] (/problem_2/map_of_stores_MY.html)
+- [map of stores ID] (/problem_2/map_of_stores_ID.html)
 ## resources:
 - [google drive](https://drive.google.com/drive/folders/1Wb_lUsZHBdGO2h6L72gBYCWNOrgakbk_?usp=sharing)
 
