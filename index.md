@@ -2,9 +2,9 @@
 
 ## final project outputs:
 #### problem1:
-- [negative](/problem1/NEGATIVE.html)
-- [neutral](/problem1/NEUTRAL.html)
-- [positive](/problem1/POSITIVE.html)
+- [negative](/problem_1/NEGATIVE.html)
+- [neutral](/problem_1/NEUTRAL.html)
+- [positive](/problem_1/POSITIVE.html)
 ## resources:
 - [google drive](https://drive.google.com/drive/folders/1Wb_lUsZHBdGO2h6L72gBYCWNOrgakbk_?usp=sharing)
 
