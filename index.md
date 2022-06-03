@@ -1,6 +1,7 @@
 # WIA2005 ALGORITHM DESIGN AND ANALYSIS - T4G1
 
 ## final project outputs:
+- [main file](/main.html)
 #### problem1:
 - [negative](/problem_1/NEGATIVE.html)
 - [neutral](/problem_1/NEUTRAL.html)
