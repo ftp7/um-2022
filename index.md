@@ -5,6 +5,7 @@
 - [negative](/problem_1/NEGATIVE.html)
 - [neutral](/problem_1/NEUTRAL.html)
 - [positive](/problem_1/POSITIVE.html)
+
 #### problem2:
 - [final distribution map](/problem_2/final_mapping.html)
 - [map of stores SG](/problem_2/map_of_stores_SG.html)
