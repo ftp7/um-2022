@@ -8,8 +8,7 @@
 - [positive](/problem_1/POSITIVE.html)
 
 #### problem2:
-- [final distribution map](/problem_2/final_mapping.html)
-- [map of stores AE](/problem_2/map_of_stores_AE.html)
+- [final distribution map](/problem_2/mapstore.html)
 ## resources:
 - [google drive](https://drive.google.com/drive/folders/1Wb_lUsZHBdGO2h6L72gBYCWNOrgakbk_?usp=sharing)
 
