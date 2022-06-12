@@ -15,12 +15,5 @@
 ## meeting link:
 - [google meet](https://meet.google.com/jbq-gcgh-ubd)
 
-## to-do:
-- write the report
-- use contents in report to make ppt
-
-## code together:
-- [colab](https://drive.google.com/file/d/1Mp1SMaiZW-eLYV8FvH4BO5tkufNXqUIq/view?usp=sharing)
-
 ## lab work:
 - [lab2](/lab2.html)
